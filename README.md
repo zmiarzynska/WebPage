@@ -1,3 +1,4 @@
+Background Image not working on GitHub profile :(( Tryna work this out
 # https://zmiarzynski.github.io/WebPage/
 # WebPage-Travelling-Site
 # All photos are mine
