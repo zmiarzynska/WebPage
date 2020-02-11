@@ -6,7 +6,7 @@ url('https://fonts.googleapis.com/css?family=Raleway:300,700');
 body{
     margin:0;
 
-    background: url("https://raw.githubusercontent.com/zmiarzynski/WebPage/master/css/assets/DSC_0813b.jpg") no-repeat center center fixed;
+    background-image: url("https://raw.githubusercontent.com/zmiarzynski/WebPage/master/css/assets/DSC_0813b.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
