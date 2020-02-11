@@ -5,7 +5,8 @@ url('https://fonts.googleapis.com/css?family=Raleway:300,700');
 
 body{
     margin:0;
-    background: url("WebPage/css/assets/DSC_0813b.jpg" )no-repeat center center fixed;
+
+    background-image: url("../css/assets/DSC_0813b.jpg" )no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
